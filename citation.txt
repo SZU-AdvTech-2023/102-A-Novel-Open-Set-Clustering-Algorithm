@@ -1,0 +1,8 @@
+@article{REPO102,
+    author = "Li, Qi and Yan, Guochen and Wang, Shuliang and Zhao, Boxiang",
+    journal = "Information Sciences",
+    pages = "119561",
+    title = "{A Novel Open¨CSet Clustering Algorithm}",
+    volume = "648",
+    year = "2023"
+}
